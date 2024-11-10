@@ -1,0 +1,19 @@
+<!DOCTYPE html>
+<html lang="pt-BR">
+<head>
+    <meta charset="UTF-8">
+    <title>Autor</title>
+</head>
+<body>
+    <h1>Informações do Autor</h1>
+    <p><strong>Nome:</strong> Seu Nome</p>
+    <p><strong>Formações Acadêmicas:</strong></p>
+    <ul>
+        <li>Curso, Instituição, Ano</li>
+    </ul>
+    <p><strong>Experiências Profissionais:</strong></p>
+    <ul>
+        <li>Função, Empresa, Ano</li>
+    </ul>
+</body>
+</html>
